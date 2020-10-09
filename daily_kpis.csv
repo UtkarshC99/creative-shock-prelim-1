@@ -1,0 +1,8 @@
+day,visitors_pre,visitors_post,receipts_pre,receipts_post,revenue_pre,revenue_post,items_pre,items_post
+Monday,82,95,49,39,411,323,98,91
+Tuesday,75,87,50,41,414,326,103,90
+Wednesday,79,91,49,36,460,362,108,95
+Thursday,92,92,56,36,512,403,120,95
+Friday,49,128,24,41,269,436,59,95
+Saturday,42,140,22,39,243,488,50,86
+Sunday,,111,,37,,388,,86
